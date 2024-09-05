@@ -76,7 +76,7 @@ $let c = a + b;
 
 # **Изображение ссылка**
 
-<!-- [Программист ![ГУГЛ](https://cdn.shopify.com/s/files/1/0267/3491/9783/files/iStock-1147195672_20_mp_resize.jpg?v=1579554428)](https://cdn.shopify.com/s/files/1/0267/3491/9783/files/iStock-1147195672_20_mp_resize.jpg?v=1579554428) -->
+[Программист ![ГУГЛ](https://cdn.shopify.com/s/files/1/0267/3491/9783/files/iStock-1147195672_20_mp_resize.jpg?v=1579554428)](https://cdn.shopify.com/s/files/1/0267/3491/9783/files/iStock-1147195672_20_mp_resize.jpg?v=1579554428)
 
 # **Добавление таблицы**
 
